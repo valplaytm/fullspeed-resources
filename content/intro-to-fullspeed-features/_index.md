@@ -10,4 +10,18 @@ pre = "<b>3. </b>"
 
 # Introduction to Fullspeed Features
 
-WIP
+To better understand how to drive the fullspeed features introduced later in
+this chapter and how they work, it is advised to read
+the [basics](/basics/) chapter. 
+For more details on how you can build such features on your own maps,
+please refer to [fullspeed-mapping](/fullspeed-mapping/) chapter.
+
+We can: 
+* Corks
+* Hills
+* Jumps
+* Loops
+* Tubes
+* Turn overs
+* Walls
+* Mixed
