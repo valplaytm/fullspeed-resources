@@ -1,6 +1,6 @@
 ---
 title: "Features | Jumps"
-date: 2022-11-18T11:15:48+02:00
+date: 2023-02-12T00:52:48+02:00
 draft: false
 weight: 1
 ---
@@ -9,4 +9,7 @@ In trackmania, jumps can be either upwards or downwards. Usually, both are
 driven with the same techniques with the aim of reducing the airtime
 (see the [basics](/basic/air-time)).
 
-![jump types](jump_types.png)
+
+![Downward jump](downward_jump.png)
+![Upward jump](upward_jump.png)
+ESL - Dirtyworkz by Pat, Devo
