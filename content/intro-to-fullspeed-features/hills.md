@@ -1,15 +1,22 @@
 ---
 title: "Features | Hills"
-date: 2022-11-18T11:15:48+02:00
+date: 2023-02-12T00:15:48+02:00
 draft: false
 weight: 1
 ---
-## Types of tubes
-Tubes can be of multiple kinds. The kinds you'll encounter will vary depending
-on their entries and their exits. These variations don't always have a name.
+## Types of hills
+Hills are generally considered to be a part of the road which drastically changes its height.
+From a fixed height, the height change can be either upward or downard.
 
-Upward hill
-Downard hill
-Diagonal hill (Trip 4th sd)
-
-![Hill types](hill_types.png)
+Furthermore, the driver can encounter these hills in all directions:
+- driving up
+![Upward-upway](upward_hill_upway.png)
+![Downward-upway](downward_hill_upway.png)
+- driving down
+![Upward-sideway](upward_hill_sideway.png) 
+FMS - Spring day by evo.CD
+![Downward-sideway](upward_hill_sideway.png)
+- driving sideways
+![Upward-downway](upward_hill_downway.png)
+FMS - Spring day by evo.CD
+![Downward-downway](upward_hill_downway.png)
