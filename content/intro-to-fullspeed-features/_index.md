@@ -25,7 +25,7 @@ In the next chapter, we will go through the basic features that occurs the most,
 
 This chapter is written in an analytic fashion, to give you a detailed understanding of how the features work, and tips on what to keep in mind when encountering them.
 
-We can: 
+We can find: 
 * Corks
 * Hills
 * Jumps
